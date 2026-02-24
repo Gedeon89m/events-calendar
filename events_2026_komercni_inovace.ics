@@ -1,483 +1,501 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Plzensky Prazdroj//Events 2026//EN
-CALSCALE:GREGORIAN
-X-WR-CALNAME:Events 2026 Komerční inovace
-BEGIN:VEVENT
-UID:WebExpo@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260527
-DTEND;VALUE=DATE:20260530
-SUMMARY:WebExpo
-DESCRIPTION:Category: AI / Data / Digital / Automation\; Startup / VC / Corporate Innovation\nWhy relevant: Strategicky zásadní pro digitální trendy a networking s tech komunitou.\nProgram: https://webexpo.net/prague2026/program/\nTickets: https://webexpo.net/presale/
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:Czech-On-line-Expo@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260224
-DTEND;VALUE=DATE:20260226
-SUMMARY:Czech On-line Expo
-DESCRIPTION:Category: Retail / E-commerce\; AI / Data / Digital / Automation\nWhy relevant: Největší e-commerce a online business festival v ČR a SK – přímá relevance pro retail a digitální prodej.\nProgram: https://www.czechonlineexpo.cz/\nTickets: https://www.czechonlineexpo.cz/
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:Retail-Summit@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260310
-DTEND;VALUE=DATE:20260313
-SUMMARY:Retail Summit
-DESCRIPTION:Category: Retail / E-commerce\nWhy relevant: Klíčový retail summit v CEE – vztahy s retailem a trendy obchodu.\nProgram: https://www.retailsummit.cz/en/program\nTickets: https://www.blueevents.eu/en/conference/retail-summit-2026/registration
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:Disraptors-Summit@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-SUMMARY:Disraptors Summit
-DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: EU Championship Finals – vítěz postupuje do Startup World Cup v Silicon Valley\; networking s investory.\nProgram: https://disraptors.com/\nTickets: https://disraptors.com/
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:Engaged-Investments-Conference@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261023
-SUMMARY:Engaged Investments Conference
-DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: Exkluzivní VC konference – 500 investorů a founderů z CEE a Baltu.\nProgram: https://engaged.investments/\nTickets: https://www.happenee.com/events/3677_engaged-investments-conference
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:Prague-Bar-Show@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260323
-DTEND;VALUE=DATE:20260324
-SUMMARY:Prague Bar Show
-DESCRIPTION:Category: Bar / Beverage (B2B)\; Gastronomie / HoReCa\nWhy relevant: Největší B2B bar a beverage veletrh ve střední Evropě – přímá relevance pro Prazdroj.\nProgram: https://www.praguebarshow.cz/en/program\nTickets: https://www.praguebarshow.cz/
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:MAKRO-Czech-Gastro-Fest@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260410
-DTEND;VALUE=DATE:20260412
-SUMMARY:MAKRO Czech Gastro Fest
-DESCRIPTION:Category: Gastronomie / HoReCa\; Bar / Beverage (B2B)\nWhy relevant: Největší gastronomická akce roku – HoReCa a beverage networking.\nProgram: https://www.makroczechgastrofest.cz/\nTickets: https://goout.net/en/makro-czech-gastro-fest-2026/szjacdy/
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:Prague-Beer-Fest@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260410
-DTEND;VALUE=DATE:20260412
-SUMMARY:Prague Beer Fest
-DESCRIPTION:Category: Brewing / Beverage Technology\; Bar / Beverage (B2B)\nWhy relevant: Přímá relevance pro pivní segment – 30 pivovarů\, craft beer\, setkání s brewery.\nProgram: https://www.pbfest.cz/breweries\nTickets: https://tickets.nfctron.com/en/event/consulting-pr-sro/prague-beer-fest-2026/cart
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:Bidfood-Expo@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261016
-SUMMARY:Bidfood Expo
-DESCRIPTION:Category: Gastronomie / HoReCa\nWhy relevant: Největší gastro veletrh roku – B2B pro HoReCa a foodservice.\nProgram: https://www.bidfood.cz/\nTickets: https://www.bidfood.cz/
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:Startup-Money@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260528
-DTEND;VALUE=DATE:20260529
-SUMMARY:Startup Money
-DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: CEE investiční konference – From Seed to Scale\, JIC ekosystém.\nProgram: https://www.jic.cz/cz/startup-money\nTickets: https://www.jic.cz/cz/startup-money
-LOCATION:Brno\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:Innovations-United@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260602
-DTEND;VALUE=DATE:20260604
-SUMMARY:Innovations United
-DESCRIPTION:Category: Startup / VC / Corporate Innovation\; AI / Data / Digital / Automation\nWhy relevant: Multi-stage konference na Pražském hradě – investoři\, pitch soutěže\, AI a inovace.\nProgram: https://startupdisrupt.com/main-event/innovations-united-2026-prague-castle/\nTickets: https://startupdisrupt.com/
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:Qubit-Conference-Prague@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260518
-DTEND;VALUE=DATE:20260521
-SUMMARY:Qubit Conference Prague
-DESCRIPTION:Category: AI / Data / Digital / Automation\nWhy relevant: Kybernetická bezpečnost a AI – The Trust Shift\, pro CISOs a technické leadery.\nProgram: https://qubitconference.com/qubit-conference-prague-2026/\nTickets: https://qubitconference.com/
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:Digitální-Česko@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260307
-DTEND;VALUE=DATE:20260308
-SUMMARY:Digitální Česko
-DESCRIPTION:Category: AI / Data / Digital / Automation\nWhy relevant: XI. ročník – vládní a byznys digitální strategie\, AI a kyberbezpečnost.\nProgram: https://www.digitalni-cesko.eu/\nTickets: https://www.digitalni-cesko.eu/
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:European-Seller-Conference@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260318
-DTEND;VALUE=DATE:20260322
-SUMMARY:European Seller Conference
-DESCRIPTION:Category: Retail / E-commerce\nWhy relevant: Amazon a e-commerce prodej – strategie a networking pro online retail.\nProgram: https://europeansellerconference.com/\nTickets: https://www.eventbrite.com/e/european-seller-conference-2026-for-amazon-private-label-sellers-tickets-1501879735719
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:HIPTHER-Prague-Summit@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260324
-DTEND;VALUE=DATE:20260326
-SUMMARY:HIPTHER Prague Summit
-DESCRIPTION:Category: AI / Data / Digital / Automation\; Startup / VC / Corporate Innovation\nWhy relevant: iGaming\, fintech\, AI\, regulace – 10. výročí\, C-level networking.\nProgram: https://hipther.com/events/prague/agenda/\nTickets: https://hipther.com/events/prague-summit/
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:AICCONF2026@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260426
-SUMMARY:AICCONF2026
-DESCRIPTION:Category: AI / Data / Digital / Automation\nWhy relevant: IEEE SMC – Cognitive Models and AI\, akademický a průmyslový výzkum.\nProgram: https://ai-conf.com/\nTickets: https://ai-conf.com/
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:GreenHack@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260607
-SUMMARY:GreenHack
-DESCRIPTION:Category: Hackathony / Soutěže / Demo Days\; Sustainability / Packaging / ESG\nWhy relevant: Hackathon AI a udržitelnost – klimatické výzvy\, cirkulární ekonomika.\nProgram: https://www.greenhack.eu/\nTickets: https://www.greenhack.eu/
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:Mobility-Hackathon-(SIT-Port)@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260213
-DTEND;VALUE=DATE:20260214
-SUMMARY:Mobility Hackathon (SIT Port)
-DESCRIPTION:Category: Hackathony / Soutěže / Demo Days\nWhy relevant: Téma BLACKOUT – krizové řízení\, kyberbezpečnost\, mobilita. Plzeň – vazba na region.\nProgram: https://sitport.cz/en/kalendar-akci/mobility-hackathon-2026\nTickets: https://sitport.cz/
-LOCATION:Plzeň\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:ETHBrno@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261004
-SUMMARY:ETHBrno
-DESCRIPTION:Category: Hackathony / Soutěže / Demo Days\nWhy relevant: Ethereum a decentralizované nástroje – 3 dny\, 150 účastníků.\nProgram: http://ethbrno.cz/\nTickets: http://ethbrno.cz/
-LOCATION:Brno\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:Newsmatics-Student-Hackathon@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260227
-DTEND;VALUE=DATE:20260301
-SUMMARY:Newsmatics Student Hackathon
-DESCRIPTION:Category: Hackathony / Soutěže / Demo Days\nWhy relevant: Student hackathon – práce s reálnými novinovými daty\, detekce dezinformací.\nProgram: TBD\nTickets: TBD
-LOCATION:Brno\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:Catalyst-Summit-Prague@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260526
-DTEND;VALUE=DATE:20260527
-SUMMARY:Catalyst Summit Prague
-DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: Partnerství\, aliance a channel leaderi – networking a Power Circles.\nProgram: https://www.joincatalyst.com/catalyst-summit-prague-2026\nTickets: https://www.joincatalyst.com/
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:Unicorn-Attacks-Bootcamp@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260304
-DTEND;VALUE=DATE:20260306
-SUMMARY:Unicorn Attacks Bootcamp
-DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: Intenzivní příprava startupů na růst – běžné chyby a jak se jim vyhnout.\nProgram: TBD\nTickets: TBD
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:Meet-Magento-Czech@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-SUMMARY:Meet Magento Czech
-DESCRIPTION:Category: Retail / E-commerce\nWhy relevant: Komunitní e-commerce konference kolem Magenta – technické i byznys téma.\nProgram: https://meet-magento.cz/\nTickets: https://meet-magento.cz/
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:CEE-Sustainable-Finance-Summit@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260917
-SUMMARY:CEE Sustainable Finance Summit
-DESCRIPTION:Category: Sustainability / Packaging / ESG\nWhy relevant: Finance\, byznys a udržitelnost v CEE – AI\, inovace\, biodiverzita.\nProgram: TBD\nTickets: TBD
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:Prague-Climate-Week@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260921
-SUMMARY:Prague Climate Week
-DESCRIPTION:Category: Sustainability / Packaging / ESG\nWhy relevant: Klimatická akce a zelená transformace – 600+ účastníků\, 130+ řečníků (2025).\nProgram: https://climateweekprague.org/\nTickets: https://climateweekprague.org/
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:ClimateEnergy2026@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261018
-SUMMARY:ClimateEnergy2026
-DESCRIPTION:Category: Sustainability / Packaging / ESG\nWhy relevant: Klimatická změna\, udržitelnost a obnovitelné zdroje – net-zero\, vodíková ekonomika.\nProgram: https://creovateconferences.com/climateenergy\nTickets: https://creovateconferences.com/
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:Smart-Energy-Forum@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261016
-SUMMARY:Smart Energy Forum
-DESCRIPTION:Category: Sustainability / Packaging / ESG\nWhy relevant: Fotovoltaika\, ukládání energie a inovativní řešení – střední Evropa.\nProgram: TBD\nTickets: TBD
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:Prague-Longevity-Festival@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260915
-SUMMARY:Prague Longevity Festival
-DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: Longevity a zdraví – první velká akce v regionu\, cca 1 500 účastníků.\nProgram: https://longevityprague.com/\nTickets: https://longevityprague.com/
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:Biohacking-Summit-Prague@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260608
-SUMMARY:Biohacking Summit Prague
-DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: Biohacking\, AI\, anti-aging\, výživa – kombinace přednášek a wellness.\nProgram: https://biohackingsummit.cz/en/program/\nTickets: https://biohackingsummit.cz/en/
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:YoungHackers-(Aimtec)@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260322
-DTEND;VALUE=DATE:20260323
-SUMMARY:YoungHackers (Aimtec)
-DESCRIPTION:Category: Hackathony / Soutěže / Demo Days\nWhy relevant: Dětský program 6–16 let – robotika\, elektronika\, AI\, VR. Plzeň.\nProgram: https://www.aimtechackathon.cz/en/younghackers/\nTickets: https://www.aimtechackathon.cz/
-LOCATION:Plzeň\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:ESP-Europe-Conference@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260518
-DTEND;VALUE=DATE:20260523
-SUMMARY:ESP Europe Conference
-DESCRIPTION:Category: Sustainability / Packaging / ESG\nWhy relevant: 6. ročník – ekosystémové služby\, biodiverzita\, udržitelný rozvoj.\nProgram: https://www.citab.utad.pt/events/6th-esp-europe-conference-18-22-may-2026-prague-czechia\nTickets: TBD
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:International-Conference-on-Entrepreneurship-and-Innovation@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260220
-DTEND;VALUE=DATE:20260221
-SUMMARY:International Conference on Entrepreneurship and Innovation
-DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: World Academics – podnikavost a inovace.\nProgram: TBD\nTickets: TBD
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:STŘECHY-SOLAR-ŘEMESLO@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260212
-DTEND;VALUE=DATE:20260215
-SUMMARY:STŘECHY-SOLAR-ŘEMESLO
-DESCRIPTION:Category: Sustainability / Packaging / ESG\nWhy relevant: Střešní konstrukce\, solární a úsporné technologie – PVA Letňany.\nProgram: https://pvaexpo.cz/\nTickets: https://pvaexpo.cz/
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:HOLIDAY-WORLD-&-REGION-WORLD@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260312
-DTEND;VALUE=DATE:20260315
-SUMMARY:HOLIDAY WORLD & REGION WORLD
-DESCRIPTION:Category: Retail / E-commerce\nWhy relevant: Cestovní ruch a regionální turistika – PVA Letňany.\nProgram: https://pvaexpo.cz/\nTickets: https://pvaexpo.cz/
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:0100-Emerging-Europe@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260903
-SUMMARY:0100 Emerging Europe
-DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: 15. ročník – PE a VC networking pro CEE\, 600 míst\, 500+ LP/GP.\nProgram: https://www.0100conferences.com/conferences/0100-emerging-europe\nTickets: https://www.0100conferences.com/
-LOCATION:Prague\, CZ
-END:VEVENT
-BEGIN:VEVENT
-UID:BrauBeviale@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261113
-SUMMARY:BrauBeviale
-DESCRIPTION:Category: Brewing / Beverage Technology\nWhy relevant: Nejvýznamnější evropský veletrh pivovarnictví a nápojů – přímá relevance pro Prazdroj.\nProgram: https://www.braubeviale.com/de-DE/home/\nTickets: https://www.braubeviale.com/
-LOCATION:Nuremberg\, DE
-END:VEVENT
-BEGIN:VEVENT
-UID:INTERNORGA@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260318
-SUMMARY:INTERNORGA
-DESCRIPTION:Category: Gastronomie / HoReCa\; Bar / Beverage (B2B)\nWhy relevant: Globální platforma pro pohostinství a foodservice – trendy a B2B vztahy.\nProgram: https://www.internorga.com/en/complete-programme\nTickets: https://www.internorga.com/en/exhibit-visit/visit/tickets
-LOCATION:Hamburg\, DE
-END:VEVENT
-BEGIN:VEVENT
-UID:Bar-Convent-Berlin@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261015
-SUMMARY:Bar Convent Berlin
-DESCRIPTION:Category: Bar / Beverage (B2B)\nWhy relevant: Největší bar a beverage veletrh v Evropě – 12 000+ návštěvníků\, 500+ vystavovatelů.\nProgram: https://www.barconvent.com/en-gb/visit.html\nTickets: https://www.barconvent.com/
-LOCATION:Berlin\, DE
-END:VEVENT
-BEGIN:VEVENT
-UID:E-commerce-Berlin-Expo@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260217
-DTEND;VALUE=DATE:20260219
-SUMMARY:E-commerce Berlin Expo
-DESCRIPTION:Category: Retail / E-commerce\nWhy relevant: 10. ročník – 14 000+ návštěvníků\, 300 vystavovatelů\, AI a retail media.\nProgram: https://ecommerceberlin.com/\nTickets: https://ecommerceberlin.com/
-LOCATION:Berlin\, DE
-END:VEVENT
-BEGIN:VEVENT
-UID:Savant-Retail-Congress@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260122
-DTEND;VALUE=DATE:20260123
-SUMMARY:Savant Retail Congress
-DESCRIPTION:Category: Retail / E-commerce\; Marketing / Brand / FMCG\nWhy relevant: 250+ senior eCommerce a marketing leadrů z DACH.\nProgram: https://savant-events.com/savant-berlin-2026\nTickets: https://savant-events.com/savant-berlin/book-now
-LOCATION:Berlin\, DE
-END:VEVENT
-BEGIN:VEVENT
-UID:Rise-of-AI-Conference@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260507
-SUMMARY:Rise of AI Conference
-DESCRIPTION:Category: AI / Data / Digital / Automation\nWhy relevant: 10. výročí – evropský AI ekosystém\, applied AI a regulace.\nProgram: https://riseof.ai/conference-2026/\nTickets: https://www.eventbrite.de/e/rise-of-ai-conference-2026-tickets-1524895586749
-LOCATION:Berlin\, DE
-END:VEVENT
-BEGIN:VEVENT
-UID:Applied-AI-Conf-Berlin@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260528
-DTEND;VALUE=DATE:20260529
-SUMMARY:Applied AI Conf Berlin
-DESCRIPTION:Category: AI / Data / Digital / Automation\nWhy relevant: Praktické nasazení AI – pro technické leadery a inženýry.\nProgram: https://ai-berlin.com/events-tiles/event/applied-ai-conf-berlin-2026\nTickets: https://ai-berlin.com/
-LOCATION:Berlin\, DE
-END:VEVENT
-BEGIN:VEVENT
-UID:Helmholtz-AI-Conference@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260608
-DTEND;VALUE=DATE:20260612
-SUMMARY:Helmholtz AI Conference
-DESCRIPTION:Category: AI / Data / Digital / Automation\nWhy relevant: AI ve vědě a výzkumu – Helmholtz asociace.\nProgram: https://www.helmholtz.ai/\nTickets: https://www.helmholtz.ai/
-LOCATION:Munich\, DE
-END:VEVENT
-BEGIN:VEVENT
-UID:Interpack@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260514
-SUMMARY:Interpack
-DESCRIPTION:Category: Sustainability / Packaging / ESG\nWhy relevant: Nejvýznamnější veletrh obalů na světě – každé 3 roky\, potraviny a nápoje.\nProgram: https://www.interpack.com/\nTickets: https://www.interpack.com/
-LOCATION:Düsseldorf\, DE
-END:VEVENT
-BEGIN:VEVENT
-UID:CEE-VC-Summit@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260324
-DTEND;VALUE=DATE:20260326
-SUMMARY:CEE VC Summit
-DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: Pouze na pozvánku – 200+ fund managerů a LP z CEE.\nProgram: https://www.vestbee.com/cee-vc-summit/\nTickets: https://www.vestbee.com/cee-vc-summit/
-LOCATION:Warsaw\, PL
-END:VEVENT
-BEGIN:VEVENT
-UID:Wolves-Summit@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260423
-SUMMARY:Wolves Summit
-DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: Startupy a investoři z DACH a CEE – 60+ 1:1 schůzek\, pitch soutěže.\nProgram: https://www.wolvessummit.com/warsaw/agenda/\nTickets: https://www.wolvessummit.com/tickets/
-LOCATION:Warsaw\, PL
-END:VEVENT
-BEGIN:VEVENT
-UID:Podim@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260514
-SUMMARY:Podim
-DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: Jedna z nejlepších tech a startup akcí v Evropě – Deal Room\, pitch soutěže.\nProgram: https://podim.org/podim-2026-program/\nTickets: https://podim.org/
-LOCATION:Maribor\, SI
-END:VEVENT
-BEGIN:VEVENT
-UID:Danubius-Gastro@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260129
-DTEND;VALUE=DATE:20260201
-SUMMARY:Danubius Gastro
-DESCRIPTION:Category: Gastronomie / HoReCa\; Bar / Beverage (B2B)\nWhy relevant: Mezinárodní gastronomický veletrh – Incheba\, HoReCa a nápoje.\nProgram: https://www.incheba.sk\nTickets: https://predpredaj.zoznam.sk/en/tickets/itf-slovakiatour-danubius-gastro-2026/
-LOCATION:Bratislava\, SK
-END:VEVENT
-BEGIN:VEVENT
-UID:Warsaw-Food-Expo@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260612
-SUMMARY:Warsaw Food Expo
-DESCRIPTION:Category: Gastronomie / HoReCa\; Marketing / Brand / FMCG\nWhy relevant: Největší potravinový veletrh v CEE – 8. ročník.\nProgram: https://warsawfoodexpo.pl/en/main-page/\nTickets: https://warsawfoodexpo.pl/
-LOCATION:Warsaw\, PL
-END:VEVENT
-BEGIN:VEVENT
-UID:NewLabel-Poland@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260127
-DTEND;VALUE=DATE:20260130
-SUMMARY:NewLabel Poland
-DESCRIPTION:Category: Retail / E-commerce\; Marketing / Brand / FMCG\nWhy relevant: 1. ročník veletrhu private label – potraviny\, nápoje\, kosmetika\, obaly.\nProgram: https://newlabelpoland.com/en/\nTickets: https://newlabelpoland.com/en/for-visitors/
-LOCATION:Warsaw\, PL
-END:VEVENT
-BEGIN:VEVENT
-UID:HoReCa-FoodService-Expo@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260310
-DTEND;VALUE=DATE:20260313
-SUMMARY:HoReCa FoodService Expo
-DESCRIPTION:Category: Gastronomie / HoReCa\nWhy relevant: 1. ročník – dodávky a supply chain pro HoReCa.\nProgram: https://horecafoodserviceexpo.com/en/\nTickets: https://horecafoodserviceexpo.com/
-LOCATION:Warsaw\, PL
-END:VEVENT
-BEGIN:VEVENT
-UID:ISEC-2026@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260414
-DTEND;VALUE=DATE:20260417
-SUMMARY:ISEC 2026
-DESCRIPTION:Category: Sustainability / Packaging / ESG\nWhy relevant: 4. International Sustainable Energy Conference – energetická soběstačnost a oběhové hospodářství.\nProgram: https://iea-es.org/events/4th-international-sustainable-energy-conference-isec-2026/\nTickets: https://iea-es.org/
-LOCATION:Graz\, AT
-END:VEVENT
-BEGIN:VEVENT
-UID:Spring-School-of-AI@prazdroj-events-2026
-DTSTAMP:20260101T120000Z
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260427
-SUMMARY:Spring School of AI
-DESCRIPTION:Category: AI / Data / Digital / Automation\nWhy relevant: Akademická AI škola – studenti a výzkumníci\, kombinace workshopů a outdooru.\nProgram: https://springai.ktiml.mff.cuni.cz/\nTickets: https://springai.ktiml.mff.cuni.cz/
-LOCATION:Krkonoše\, CZ
-END:VEVENT
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plzensky Prazdroj//Events 2026//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Events 2026 Komerční inovace
+BEGIN:VEVENT
+UID:WebExpo@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260530
+SUMMARY:WebExpo
+DESCRIPTION:Category: AI / Data / Digital / Automation\; Startup / VC / Corporate Innovation\nWhy relevant: Strategicky zásadní pro digitální trendy a networking s tech komunitou.\nProgram: https://webexpo.net/prague2026/program/\nTickets: https://webexpo.net/presale/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Czech-On-line-Expo@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260226
+SUMMARY:Czech On-line Expo
+DESCRIPTION:Category: Retail / E-commerce\; AI / Data / Digital / Automation\nWhy relevant: Největší e-commerce a online business festival v ČR a SK – přímá relevance pro retail a digitální prodej.\nProgram: https://www.czechonlineexpo.cz/\nTickets: https://www.czechonlineexpo.cz/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Retail-Summit@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260313
+SUMMARY:Retail Summit
+DESCRIPTION:Category: Retail / E-commerce\nWhy relevant: Klíčový retail summit v CEE – vztahy s retailem a trendy obchodu.\nProgram: https://www.retailsummit.cz/en/program\nTickets: https://www.blueevents.eu/en/conference/retail-summit-2026/registration
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Disraptors-Summit@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Disraptors Summit
+DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: EU Championship Finals – vítěz postupuje do Startup World Cup v Silicon Valley\; networking s investory.\nProgram: https://disraptors.com/\nTickets: https://disraptors.com/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Engaged-Investments-Conference@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261023
+SUMMARY:Engaged Investments Conference
+DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: Exkluzivní VC konference – 500 investorů a founderů z CEE a Baltu.\nProgram: https://engaged.investments/\nTickets: https://www.happenee.com/events/3677_engaged-investments-conference
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Prague-Bar-Show@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:Prague Bar Show
+DESCRIPTION:Category: Bar / Beverage (B2B)\; Gastronomie / HoReCa\nWhy relevant: Největší B2B bar a beverage veletrh ve střední Evropě – přímá relevance pro Prazdroj.\nProgram: https://www.praguebarshow.cz/en/program\nTickets: https://www.praguebarshow.cz/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:MAKRO-Czech-Gastro-Fest@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260412
+SUMMARY:MAKRO Czech Gastro Fest
+DESCRIPTION:Category: Gastronomie / HoReCa\; Bar / Beverage (B2B)\nWhy relevant: Největší gastronomická akce roku – HoReCa a beverage networking.\nProgram: https://www.makroczechgastrofest.cz/\nTickets: https://goout.net/en/makro-czech-gastro-fest-2026/szjacdy/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Prague-Beer-Fest@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260412
+SUMMARY:Prague Beer Fest
+DESCRIPTION:Category: Brewing / Beverage Technology\; Bar / Beverage (B2B)\nWhy relevant: Přímá relevance pro pivní segment – 30 pivovarů\, craft beer\, setkání s brewery.\nProgram: https://www.pbfest.cz/breweries\nTickets: https://tickets.nfctron.com/en/event/consulting-pr-sro/prague-beer-fest-2026/cart
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Bidfood-Expo@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261016
+SUMMARY:Bidfood Expo
+DESCRIPTION:Category: Gastronomie / HoReCa\nWhy relevant: Největší gastro veletrh roku – B2B pro HoReCa a foodservice.\nProgram: https://www.bidfood.cz/\nTickets: https://www.bidfood.cz/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Startup-Money@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:Startup Money
+DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: CEE investiční konference – From Seed to Scale\, JIC ekosystém.\nProgram: https://www.jic.cz/cz/startup-money\nTickets: https://www.jic.cz/cz/startup-money
+LOCATION:Brno\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Innovations-United@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260604
+SUMMARY:Innovations United
+DESCRIPTION:Category: Startup / VC / Corporate Innovation\; AI / Data / Digital / Automation\nWhy relevant: Multi-stage konference na Pražském hradě – investoři\, pitch soutěže\, AI a inovace.\nProgram: https://startupdisrupt.com/main-event/innovations-united-2026-prague-castle/\nTickets: https://startupdisrupt.com/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Qubit-Conference-Prague@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260521
+SUMMARY:Qubit Conference Prague
+DESCRIPTION:Category: AI / Data / Digital / Automation\nWhy relevant: Kybernetická bezpečnost a AI – The Trust Shift\, pro CISOs a technické leadery.\nProgram: https://qubitconference.com/qubit-conference-prague-2026/\nTickets: https://qubitconference.com/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Digitální-Česko@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+SUMMARY:Digitální Česko
+DESCRIPTION:Category: AI / Data / Digital / Automation\nWhy relevant: XI. ročník – vládní a byznys digitální strategie\, AI a kyberbezpečnost.\nProgram: https://www.digitalni-cesko.eu/\nTickets: https://www.digitalni-cesko.eu/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:European-Seller-Conference@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260322
+SUMMARY:European Seller Conference
+DESCRIPTION:Category: Retail / E-commerce\nWhy relevant: Amazon a e-commerce prodej – strategie a networking pro online retail.\nProgram: https://europeansellerconference.com/\nTickets: https://www.eventbrite.com/e/european-seller-conference-2026-for-amazon-private-label-sellers-tickets-1501879735719
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:HIPTHER-Prague-Summit@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260326
+SUMMARY:HIPTHER Prague Summit
+DESCRIPTION:Category: AI / Data / Digital / Automation\; Startup / VC / Corporate Innovation\nWhy relevant: iGaming\, fintech\, AI\, regulace – 10. výročí\, C-level networking.\nProgram: https://hipther.com/events/prague/agenda/\nTickets: https://hipther.com/events/prague-summit/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:AICCONF2026@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260426
+SUMMARY:AICCONF2026
+DESCRIPTION:Category: AI / Data / Digital / Automation\nWhy relevant: IEEE SMC – Cognitive Models and AI\, akademický a průmyslový výzkum.\nProgram: https://ai-conf.com/\nTickets: https://ai-conf.com/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:GreenHack@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260607
+SUMMARY:GreenHack
+DESCRIPTION:Category: Hackathony / Soutěže / Demo Days\; Sustainability / Packaging / ESG\nWhy relevant: Hackathon AI a udržitelnost – klimatické výzvy\, cirkulární ekonomika.\nProgram: https://www.greenhack.eu/\nTickets: https://www.greenhack.eu/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Mobility-Hackathon-(SIT-Port)@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:Mobility Hackathon (SIT Port)
+DESCRIPTION:Category: Hackathony / Soutěže / Demo Days\nWhy relevant: Téma BLACKOUT – krizové řízení\, kyberbezpečnost\, mobilita. Plzeň – vazba na region.\nProgram: https://sitport.cz/en/kalendar-akci/mobility-hackathon-2026\nTickets: https://sitport.cz/
+LOCATION:Plzeň\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ETHBrno@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261004
+SUMMARY:ETHBrno
+DESCRIPTION:Category: Hackathony / Soutěže / Demo Days\nWhy relevant: Ethereum a decentralizované nástroje – 3 dny\, 150 účastníků.\nProgram: http://ethbrno.cz/\nTickets: http://ethbrno.cz/
+LOCATION:Brno\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Newsmatics-Student-Hackathon@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260301
+SUMMARY:Newsmatics Student Hackathon
+DESCRIPTION:Category: Hackathony / Soutěže / Demo Days\nWhy relevant: Student hackathon – práce s reálnými novinovými daty\, detekce dezinformací.\nProgram: TBD\nTickets: TBD
+LOCATION:Brno\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Catalyst-Summit-Prague@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Catalyst Summit Prague
+DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: Partnerství\, aliance a channel leaderi – networking a Power Circles.\nProgram: https://www.joincatalyst.com/catalyst-summit-prague-2026\nTickets: https://www.joincatalyst.com/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Unicorn-Attacks-Bootcamp@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260306
+SUMMARY:Unicorn Attacks Bootcamp
+DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: Intenzivní příprava startupů na růst – běžné chyby a jak se jim vyhnout.\nProgram: TBD\nTickets: TBD
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Meet-Magento-Czech@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:Meet Magento Czech
+DESCRIPTION:Category: Retail / E-commerce\nWhy relevant: Komunitní e-commerce konference kolem Magenta – technické i byznys téma.\nProgram: https://meet-magento.cz/\nTickets: https://meet-magento.cz/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:CEE-Sustainable-Finance-Summit@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260917
+SUMMARY:CEE Sustainable Finance Summit
+DESCRIPTION:Category: Sustainability / Packaging / ESG\nWhy relevant: Finance\, byznys a udržitelnost v CEE – AI\, inovace\, biodiverzita.\nProgram: TBD\nTickets: TBD
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Prague-Climate-Week@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260921
+SUMMARY:Prague Climate Week
+DESCRIPTION:Category: Sustainability / Packaging / ESG\nWhy relevant: Klimatická akce a zelená transformace – 600+ účastníků\, 130+ řečníků (2025).\nProgram: https://climateweekprague.org/\nTickets: https://climateweekprague.org/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ClimateEnergy2026@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261018
+SUMMARY:ClimateEnergy2026
+DESCRIPTION:Category: Sustainability / Packaging / ESG\nWhy relevant: Klimatická změna\, udržitelnost a obnovitelné zdroje – net-zero\, vodíková ekonomika.\nProgram: https://creovateconferences.com/climateenergy\nTickets: https://creovateconferences.com/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Smart-Energy-Forum@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261016
+SUMMARY:Smart Energy Forum
+DESCRIPTION:Category: Sustainability / Packaging / ESG\nWhy relevant: Fotovoltaika\, ukládání energie a inovativní řešení – střední Evropa.\nProgram: TBD\nTickets: TBD
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Prague-Longevity-Festival@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260915
+SUMMARY:Prague Longevity Festival
+DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: Longevity a zdraví – první velká akce v regionu\, cca 1 500 účastníků.\nProgram: https://longevityprague.com/\nTickets: https://longevityprague.com/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Biohacking-Summit-Prague@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260608
+SUMMARY:Biohacking Summit Prague
+DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: Biohacking\, AI\, anti-aging\, výživa – kombinace přednášek a wellness.\nProgram: https://biohackingsummit.cz/en/program/\nTickets: https://biohackingsummit.cz/en/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:YoungHackers-(Aimtec)@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:YoungHackers (Aimtec)
+DESCRIPTION:Category: Hackathony / Soutěže / Demo Days\nWhy relevant: Dětský program 6–16 let – robotika\, elektronika\, AI\, VR. Plzeň.\nProgram: https://www.aimtechackathon.cz/en/younghackers/\nTickets: https://www.aimtechackathon.cz/
+LOCATION:Plzeň\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:Hack-Your-Way@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260430
+SUMMARY:Hack Your Way
+DESCRIPTION:Category: AI / Data / Digital / Automation\; Marketing / Brand / FMCG\; Hackathony / Soutěže / Demo Days\nWhy relevant: Konference AI\, vibe coding a marketing – inspirace pro digitální a byznys inovace\, závěrečný hackathon.\nProgram: https://www.hackyourway.cz/\nTickets: https://www.hackyourway.cz/
+LOCATION:Brno\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:LiSummit-2026@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:LiSummit 2026
+DESCRIPTION:Category: Marketing / Brand / FMCG\; AI / Data / Digital / Automation\nWhy relevant: LinkedIn jako pracovní nástroj – 6. ročník\, brand\, obchod\, workshopy a vyhlášení CEO na LinkedInu.\nProgram: https://www.lisummit2026.com/\nTickets: https://www.lisummit2026.com/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:ESP-Europe-Conference@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260523
+SUMMARY:ESP Europe Conference
+DESCRIPTION:Category: Sustainability / Packaging / ESG\nWhy relevant: 6. ročník – ekosystémové služby\, biodiverzita\, udržitelný rozvoj.\nProgram: https://www.citab.utad.pt/events/6th-esp-europe-conference-18-22-may-2026-prague-czechia\nTickets: TBD
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:International-Conference-on-Entrepreneurship-and-Innovation@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:International Conference on Entrepreneurship and Innovation
+DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: World Academics – podnikavost a inovace.\nProgram: TBD\nTickets: TBD
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:STŘECHY-SOLAR-ŘEMESLO@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260215
+SUMMARY:STŘECHY-SOLAR-ŘEMESLO
+DESCRIPTION:Category: Sustainability / Packaging / ESG\nWhy relevant: Střešní konstrukce\, solární a úsporné technologie – PVA Letňany.\nProgram: https://pvaexpo.cz/\nTickets: https://pvaexpo.cz/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:HOLIDAY-WORLD-&-REGION-WORLD@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260315
+SUMMARY:HOLIDAY WORLD & REGION WORLD
+DESCRIPTION:Category: Retail / E-commerce\nWhy relevant: Cestovní ruch a regionální turistika – PVA Letňany.\nProgram: https://pvaexpo.cz/\nTickets: https://pvaexpo.cz/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:0100-Emerging-Europe@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260903
+SUMMARY:0100 Emerging Europe
+DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: 15. ročník – PE a VC networking pro CEE\, 600 míst\, 500+ LP/GP.\nProgram: https://www.0100conferences.com/conferences/0100-emerging-europe\nTickets: https://www.0100conferences.com/
+LOCATION:Prague\, CZ
+END:VEVENT
+BEGIN:VEVENT
+UID:BrauBeviale@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261113
+SUMMARY:BrauBeviale
+DESCRIPTION:Category: Brewing / Beverage Technology\nWhy relevant: Nejvýznamnější evropský veletrh pivovarnictví a nápojů – přímá relevance pro Prazdroj.\nProgram: https://www.braubeviale.com/de-DE/home/\nTickets: https://www.braubeviale.com/
+LOCATION:Nuremberg\, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:INTERNORGA@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260318
+SUMMARY:INTERNORGA
+DESCRIPTION:Category: Gastronomie / HoReCa\; Bar / Beverage (B2B)\nWhy relevant: Globální platforma pro pohostinství a foodservice – trendy a B2B vztahy.\nProgram: https://www.internorga.com/en/complete-programme\nTickets: https://www.internorga.com/en/exhibit-visit/visit/tickets
+LOCATION:Hamburg\, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:Bar-Convent-Berlin@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261015
+SUMMARY:Bar Convent Berlin
+DESCRIPTION:Category: Bar / Beverage (B2B)\nWhy relevant: Největší bar a beverage veletrh v Evropě – 12 000+ návštěvníků\, 500+ vystavovatelů.\nProgram: https://www.barconvent.com/en-gb/visit.html\nTickets: https://www.barconvent.com/
+LOCATION:Berlin\, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:E-commerce-Berlin-Expo@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260219
+SUMMARY:E-commerce Berlin Expo
+DESCRIPTION:Category: Retail / E-commerce\nWhy relevant: 10. ročník – 14 000+ návštěvníků\, 300 vystavovatelů\, AI a retail media.\nProgram: https://ecommerceberlin.com/\nTickets: https://ecommerceberlin.com/
+LOCATION:Berlin\, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:Savant-Retail-Congress@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:Savant Retail Congress
+DESCRIPTION:Category: Retail / E-commerce\; Marketing / Brand / FMCG\nWhy relevant: 250+ senior eCommerce a marketing leadrů z DACH.\nProgram: https://savant-events.com/savant-berlin-2026\nTickets: https://savant-events.com/savant-berlin/book-now
+LOCATION:Berlin\, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:Rise-of-AI-Conference@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260507
+SUMMARY:Rise of AI Conference
+DESCRIPTION:Category: AI / Data / Digital / Automation\nWhy relevant: 10. výročí – evropský AI ekosystém\, applied AI a regulace.\nProgram: https://riseof.ai/conference-2026/\nTickets: https://www.eventbrite.de/e/rise-of-ai-conference-2026-tickets-1524895586749
+LOCATION:Berlin\, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:Applied-AI-Conf-Berlin@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:Applied AI Conf Berlin
+DESCRIPTION:Category: AI / Data / Digital / Automation\nWhy relevant: Praktické nasazení AI – pro technické leadery a inženýry.\nProgram: https://ai-berlin.com/events-tiles/event/applied-ai-conf-berlin-2026\nTickets: https://ai-berlin.com/
+LOCATION:Berlin\, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:Helmholtz-AI-Conference@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260612
+SUMMARY:Helmholtz AI Conference
+DESCRIPTION:Category: AI / Data / Digital / Automation\nWhy relevant: AI ve vědě a výzkumu – Helmholtz asociace.\nProgram: https://www.helmholtz.ai/\nTickets: https://www.helmholtz.ai/
+LOCATION:Munich\, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:Interpack@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260514
+SUMMARY:Interpack
+DESCRIPTION:Category: Sustainability / Packaging / ESG\nWhy relevant: Nejvýznamnější veletrh obalů na světě – každé 3 roky\, potraviny a nápoje.\nProgram: https://www.interpack.com/\nTickets: https://www.interpack.com/
+LOCATION:Düsseldorf\, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:CEE-VC-Summit@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260326
+SUMMARY:CEE VC Summit
+DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: Pouze na pozvánku – 200+ fund managerů a LP z CEE.\nProgram: https://www.vestbee.com/cee-vc-summit/\nTickets: https://www.vestbee.com/cee-vc-summit/
+LOCATION:Warsaw\, PL
+END:VEVENT
+BEGIN:VEVENT
+UID:Wolves-Summit@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260423
+SUMMARY:Wolves Summit
+DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: Startupy a investoři z DACH a CEE – 60+ 1:1 schůzek\, pitch soutěže.\nProgram: https://www.wolvessummit.com/warsaw/agenda/\nTickets: https://www.wolvessummit.com/tickets/
+LOCATION:Warsaw\, PL
+END:VEVENT
+BEGIN:VEVENT
+UID:Podim@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260514
+SUMMARY:Podim
+DESCRIPTION:Category: Startup / VC / Corporate Innovation\nWhy relevant: Jedna z nejlepších tech a startup akcí v Evropě – Deal Room\, pitch soutěže.\nProgram: https://podim.org/podim-2026-program/\nTickets: https://podim.org/
+LOCATION:Maribor\, SI
+END:VEVENT
+BEGIN:VEVENT
+UID:Danubius-Gastro@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260201
+SUMMARY:Danubius Gastro
+DESCRIPTION:Category: Gastronomie / HoReCa\; Bar / Beverage (B2B)\nWhy relevant: Mezinárodní gastronomický veletrh – Incheba\, HoReCa a nápoje.\nProgram: https://www.incheba.sk\nTickets: https://predpredaj.zoznam.sk/en/tickets/itf-slovakiatour-danubius-gastro-2026/
+LOCATION:Bratislava\, SK
+END:VEVENT
+BEGIN:VEVENT
+UID:Warsaw-Food-Expo@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260612
+SUMMARY:Warsaw Food Expo
+DESCRIPTION:Category: Gastronomie / HoReCa\; Marketing / Brand / FMCG\nWhy relevant: Největší potravinový veletrh v CEE – 8. ročník.\nProgram: https://warsawfoodexpo.pl/en/main-page/\nTickets: https://warsawfoodexpo.pl/
+LOCATION:Warsaw\, PL
+END:VEVENT
+BEGIN:VEVENT
+UID:NewLabel-Poland@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260130
+SUMMARY:NewLabel Poland
+DESCRIPTION:Category: Retail / E-commerce\; Marketing / Brand / FMCG\nWhy relevant: 1. ročník veletrhu private label – potraviny\, nápoje\, kosmetika\, obaly.\nProgram: https://newlabelpoland.com/en/\nTickets: https://newlabelpoland.com/en/for-visitors/
+LOCATION:Warsaw\, PL
+END:VEVENT
+BEGIN:VEVENT
+UID:HoReCa-FoodService-Expo@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260313
+SUMMARY:HoReCa FoodService Expo
+DESCRIPTION:Category: Gastronomie / HoReCa\nWhy relevant: 1. ročník – dodávky a supply chain pro HoReCa.\nProgram: https://horecafoodserviceexpo.com/en/\nTickets: https://horecafoodserviceexpo.com/
+LOCATION:Warsaw\, PL
+END:VEVENT
+BEGIN:VEVENT
+UID:ISEC-2026@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260417
+SUMMARY:ISEC 2026
+DESCRIPTION:Category: Sustainability / Packaging / ESG\nWhy relevant: 4. International Sustainable Energy Conference – energetická soběstačnost a oběhové hospodářství.\nProgram: https://iea-es.org/events/4th-international-sustainable-energy-conference-isec-2026/\nTickets: https://iea-es.org/
+LOCATION:Graz\, AT
+END:VEVENT
+BEGIN:VEVENT
+UID:Spring-School-of-AI@prazdroj-events-2026
+DTSTAMP:20260101T120000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260427
+SUMMARY:Spring School of AI
+DESCRIPTION:Category: AI / Data / Digital / Automation\nWhy relevant: Akademická AI škola – studenti a výzkumníci\, kombinace workshopů a outdooru.\nProgram: https://springai.ktiml.mff.cuni.cz/\nTickets: https://springai.ktiml.mff.cuni.cz/
+LOCATION:Krkonoše\, CZ
+END:VEVENT
 END:VCALENDAR
